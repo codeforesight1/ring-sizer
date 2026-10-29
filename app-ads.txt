@@ -1,0 +1,4 @@
+# Replace pub-0000000000000000 with your AdMob publisher ID (AdMob → Settings → Account information),
+# then delete these comment lines. This file must sit at the root of the domain you enter as
+# "Website" in your Play Store listing.
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
